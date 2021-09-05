@@ -2,10 +2,17 @@
     MysqlDump with .bat to do Backup
 </h1>
 
-## :question: Why this repository?
-
-make my life easier
+## :question: Como usar esse repo?
+    alterar os dados do arquivo backup.bat
+    
+    [database]
+    [host]
+    [password]
+    [port]
+    [directory]
+    
+    e depois basta executar o .bat
 
 ## :information_source: Attention
 
-Dont has space between -p and password -p[password]
+    Dont has space between -p and password -p[password]
